@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="/assets/microcontroller.gif"  />
+<img align="right" height="150" src="/Retro_Arcade_GIF_Generation.gif"  />
 
 ###
 
